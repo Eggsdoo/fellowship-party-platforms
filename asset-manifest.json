@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fellowship-party-platforms/static/css/main.f906e0de.css",
+    "main.css": "/fellowship-party-platforms/static/css/main.fa9506f4.css",
     "main.js": "/fellowship-party-platforms/static/js/main.9f846149.js",
     "static/js/453.3bbcbcf0.chunk.js": "/fellowship-party-platforms/static/js/453.3bbcbcf0.chunk.js",
     "static/media/adam-kazmi.png": "/fellowship-party-platforms/static/media/adam-kazmi.89463398c8d2b0990ee2.png",
@@ -11,12 +11,12 @@
     "static/media/SKP-logo.jpg": "/fellowship-party-platforms/static/media/SKP-logo.35d42b58c43e40c9e008.jpg",
     "static/media/SKP-Campaign.pdf": "/fellowship-party-platforms/static/media/SKP-Campaign.978e39c083110f33eaf4.pdf",
     "index.html": "/fellowship-party-platforms/index.html",
-    "main.f906e0de.css.map": "/fellowship-party-platforms/static/css/main.f906e0de.css.map",
+    "main.fa9506f4.css.map": "/fellowship-party-platforms/static/css/main.fa9506f4.css.map",
     "main.9f846149.js.map": "/fellowship-party-platforms/static/js/main.9f846149.js.map",
     "453.3bbcbcf0.chunk.js.map": "/fellowship-party-platforms/static/js/453.3bbcbcf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f906e0de.css",
+    "static/css/main.fa9506f4.css",
     "static/js/main.9f846149.js"
   ]
 }

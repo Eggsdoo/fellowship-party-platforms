@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/fellowship-party-platforms/static/css/main.2ddb17d8.css",
+    "main.css": "/fellowship-party-platforms/static/css/main.1c3837d9.css",
     "main.js": "/fellowship-party-platforms/static/js/main.8b11a70a.js",
     "static/js/453.3bbcbcf0.chunk.js": "/fellowship-party-platforms/static/js/453.3bbcbcf0.chunk.js",
     "static/media/adam-kazmi.png": "/fellowship-party-platforms/static/media/adam-kazmi.89463398c8d2b0990ee2.png",
     "static/media/nashra-syed.png": "/fellowship-party-platforms/static/media/nashra-syed.a7d0ebdd8b63e1c1debf.png",
     "static/media/zoha-mobeen.png": "/fellowship-party-platforms/static/media/zoha-mobeen.20642861b927c88b7c71.png",
     "static/media/hamza-siddiqui.png": "/fellowship-party-platforms/static/media/hamza-siddiqui.c3eaf999c9e0e067e45e.png",
-    "static/media/main-bg.jpeg": "/fellowship-party-platforms/static/media/main-bg.cf8ec81dfd915cdad879.jpeg",
+    "static/media/skp-bg.jpg": "/fellowship-party-platforms/static/media/skp-bg.b1e5e45722be91bbe900.jpg",
     "static/media/SKP-logo.jpg": "/fellowship-party-platforms/static/media/SKP-logo.35d42b58c43e40c9e008.jpg",
     "static/media/SKP-Campaign.pdf": "/fellowship-party-platforms/static/media/SKP-Campaign.978e39c083110f33eaf4.pdf",
     "index.html": "/fellowship-party-platforms/index.html",
-    "main.2ddb17d8.css.map": "/fellowship-party-platforms/static/css/main.2ddb17d8.css.map",
+    "main.1c3837d9.css.map": "/fellowship-party-platforms/static/css/main.1c3837d9.css.map",
     "main.8b11a70a.js.map": "/fellowship-party-platforms/static/js/main.8b11a70a.js.map",
     "453.3bbcbcf0.chunk.js.map": "/fellowship-party-platforms/static/js/453.3bbcbcf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ddb17d8.css",
+    "static/css/main.1c3837d9.css",
     "static/js/main.8b11a70a.js"
   ]
 }
